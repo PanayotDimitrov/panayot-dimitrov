@@ -53,6 +53,7 @@
   text-align: justify;
   text-shadow: 0px 0px 4px rgba(0,0,0,0.45);
   border: 3px solid #dda26b;
+  border-radius: 20px;
 }
 .right-about-div {
   display: flex;
